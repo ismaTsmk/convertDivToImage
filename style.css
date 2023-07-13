@@ -1,0 +1,20 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+  }
+  
+  .card-header {
+    background-color: #f1f1f1;
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .card-title {
+    margin: 0;
+  }
+  
+  .card-body {
+    padding: 8px;
+  }
+  
